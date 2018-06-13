@@ -1,0 +1,4 @@
+Top.RTConnector1
+    Top.controller#engine.far[0] <-> Top.motorDriver#engine.far[0]
+Top.RTConnector2
+    Top.controller#sensoring.far[0] <-> Top.temperatureSensor#sensoring.far[0]
